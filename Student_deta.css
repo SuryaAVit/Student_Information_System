@@ -1,0 +1,87 @@
+<style>
+.footer {
+position: fixed;
+ 
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #64989b;
+color: white;
+text-align: center;
+}
+#box1{
+color:white;
+background-color:#4b8772;
+height:30px;
+25
+width:15%;
+overflow:hidden;
+float:left;
+margin-left:10%;
+margin-right:.5%;
+padding:5px;
+}
+#box2{
+color:white;
+background-color:#4b8772;
+height:30px;
+width:15%;
+overflow:hidden;
+float:left;
+margin-right:.5%;
+padding:5px;
+}
+ 
+#box3{
+color:white;
+background-color:#4b8772;
+height:30px;
+width:15%;
+overflow:hidden;
+float:left;
+margin-right:.5%;
+padding:5px;
+}
+#box4{
+26
+color:white;
+background-color:#4b8772;
+height:30px;
+width:15%;
+overflow:hidden;
+float:left;
+margin-right:.5%;
+padding:5px;
+}
+#box5{
+color:white;
+background-color:#47b88c;
+height:30px;
+width:15%;
+overflow:hidden;
+float:left;
+margin-right:.5%;
+ 
+padding:5px;
+}
+#tb{
+width:35%;
+margin-top:5%;
+}
+table{
+border: 2px solid;
+}
+a{
+text-decoration:none;
+27
+}
+a:active
+{color:white;
+}
+a:link
+{color: white;
+}
+a:visited
+{color:white;
+}
+</style>
